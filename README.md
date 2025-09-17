@@ -28,5 +28,5 @@ Service Member Transition Assistant (SMTA) is a full-stack web application that 
 
 ### 1. Clone the Repo
 ```bash
-git clone [https://github.com/<your-username>/smta.git](https://github.com/natanrinconluna/Service-Member-Transition-Assistant-SMTA-.git)
+git clone [https://github.com/natanrinconluna/Service-Member-Transition-Assistant-SMTA-.git]
 cd smta
